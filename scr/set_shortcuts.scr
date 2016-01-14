@@ -26,6 +26,7 @@ assign alt+v via
 assign alt+a ripup
 assign alt+r ratsnest
 assign alt+e text
+assign alt+f polygon
 assign ctrl+c copy
 assign ctrl+v paste
 assign ctrl+f run find.ulp
