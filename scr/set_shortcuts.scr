@@ -1,0 +1,31 @@
+
+assign alt+q group
+assign alt+w move
+assign alt+s net
+assign alt+d delete
+assign alt+z info
+assign alt+x show
+assign alt+c name
+assign alt+v label
+assign alt+a add
+assign alt+r replace
+assign alt+e text
+assign ctrl+c copy
+assign ctrl+v paste
+assign ctrl+f run find.ulp
+
+board
+assign alt+q group
+assign alt+w move
+assign alt+s route
+assign alt+d delete
+assign alt+z info
+assign alt+x show
+assign alt+c name
+assign alt+v via
+assign alt+a ripup
+assign alt+r ratsnest
+assign alt+e text
+assign ctrl+c copy
+assign ctrl+v paste
+assign ctrl+f run find.ulp
