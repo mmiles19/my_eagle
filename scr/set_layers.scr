@@ -23,7 +23,7 @@ SET COLOR_LAYER 16 1;
 SET COLOR_LAYER 17 2;
 SET COLOR_LAYER 18 2;
 SET COLOR_LAYER 19 6;
-SET COLOR_LAYER 20 15;
+SET COLOR_LAYER 20 5;
 SET COLOR_LAYER 21 7;
 SET COLOR_LAYER 22 7;
 SET COLOR_LAYER 23 15;
@@ -128,4 +128,5 @@ SET FILL_LAYER 96 1;
 Set Used_Layers 1  16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 \
                 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 \
                 47 48 49 50 51 52   91 92 93 94 95 96;
-DISPLAY NONE 1 16 17 21;
+
+DISPLAY NONE top bottom pads vias unrouted dimension tplace bplace torigins borigins tnames bnames tdocu bdocu;
