@@ -30,3 +30,4 @@ assign alt+f polygon
 assign ctrl+c copy
 assign ctrl+v paste
 assign ctrl+f run find.ulp
+assign alt+m mark
