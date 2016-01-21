@@ -6,13 +6,14 @@ assign alt+d delete
 assign alt+z info
 assign alt+x show
 assign alt+c name
-assign alt+v label
+assign alt+v value
 assign alt+a add
 assign alt+r replace
 assign alt+e text
 assign ctrl+c copy
 assign ctrl+v paste
 assign ctrl+f run find.ulp
+assign alt+f label
 
 board
 assign alt+q group
